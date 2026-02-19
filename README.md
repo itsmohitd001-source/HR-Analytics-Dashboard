@@ -1,5 +1,6 @@
-# HR-Analytics-Dashboard using Power BI
 
+# HR-Analytics-Dashboard using Power BI
+Interactive HR-Analytics dashboard
 
 >>Project Overview
 
