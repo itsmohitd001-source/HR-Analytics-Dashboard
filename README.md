@@ -57,13 +57,13 @@ T-enure vs Attrition Trend
 
 >> Strategic Recommendations
 
-Strengthen onboarding & early engagement programs.
+-Strengthen onboarding & early engagement programs.
 
-Introduce targeted retention incentives for high-risk departments.
+-Introduce targeted retention incentives for high-risk departments.
 
-Conduct compensation benchmarking for lower salary bands.
+-Conduct compensation benchmarking for lower salary bands.
 
-Develop career progression pathways for early-career employees.
+-Develop career progression pathways for early-career employees.
 
 >>Tools & Technologies
 
